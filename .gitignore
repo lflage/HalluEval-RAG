@@ -1,0 +1,6 @@
+# models
+wikipedia_embeddings/
+
+# file extensions
+**/*.tsv
+**/*.tar
