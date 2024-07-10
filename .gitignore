@@ -1,6 +1,6 @@
-# models
+# folders
 wikipedia_embeddings/
-
+playtest/
 # file extensions
 **/*.tsv
 **/*.tar
