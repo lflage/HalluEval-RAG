@@ -1,6 +1,8 @@
 # folders
 wikipedia_embeddings/
 playtest/
+**/contriever_embeddings
 # file extensions
 **/*.tsv
 **/*.tar
+**/requirements.txt
