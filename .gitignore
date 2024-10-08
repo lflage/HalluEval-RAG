@@ -2,7 +2,10 @@
 wikipedia_embeddings/
 playtest/
 **/contriever_embeddings
+**/FactScore
 # file extensions
 **/*.tsv
 **/*.tar
 **/requirements.txt
+
+
