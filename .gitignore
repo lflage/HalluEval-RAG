@@ -3,9 +3,8 @@ wikipedia_embeddings/
 playtest/
 **/contriever_embeddings
 **/FactScore
+**/__pycache__
 # file extensions
 **/*.tsv
 **/*.tar
 **/requirements.txt
-
-
